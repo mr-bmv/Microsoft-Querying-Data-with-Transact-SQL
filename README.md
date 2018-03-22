@@ -8,4 +8,5 @@ My practices from edx Microsoft: DAT201x
 `WHEN <> THEN `
 
 * [Lab 6](https://github.com/mr-bmv/Transact-SQL/tree/master/Lab%206): Using Subqueries and APPLY 
-
+* [Lab 7](https://github.com/mr-bmv/Transact-SQL/tree/master/Lab%207): Using Subqueries and APPLY 
+` table variable   @Color`
